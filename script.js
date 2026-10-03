@@ -1,1 +1,1 @@
-console.log("Lílian Bichels | MVP V0.2");
+console.log("Lílian Bichels | Bolos Artesanais");
